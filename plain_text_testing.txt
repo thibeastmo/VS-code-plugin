@@ -1,0 +1,10 @@
+publicclass ID {
+    public int anInt;
+    double
+    public double aDouble;
+    public een anEen;
+    TypeScript
+    ad;
+    sdfa;
+    ;
+}
